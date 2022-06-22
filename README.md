@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanfebrianto
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning anything related to data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
